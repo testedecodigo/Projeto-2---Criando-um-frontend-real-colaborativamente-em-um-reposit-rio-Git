@@ -1,7 +1,14 @@
 //Link do protótipo do app
 
-https://www.figma.com/file/We8COx2D5taPqrVZxIjcoQ/App-do-Netsphere?type=design&node-id=0%3A1&mode=design&t=DkY6LLhOfLxaOcsa-1
+https://www.figma.com/proto/We8COx2D5taPqrVZxIjcoQ/App-do-Netsphere?type=design&node-id=0-1&t=jh5E9fIetsrYNtPy-0&scaling=scale-down&page-id=0%3A1
 
 //Link do projeto do app
+https://www.figma.com/file/We8COx2D5taPqrVZxIjcoQ/App-do-Netsphere?type=design&node-id=0-1&mode=design&t=jh5E9fIetsrYNtPy-0
 
-https://www.figma.com/proto/We8COx2D5taPqrVZxIjcoQ/App-do-Netsphere?type=design&node-id=2-10&t=ICM0A9BSQWkkGmPl-1&scaling=scale-down&page-id=0%3A1&mode=design
+//Link Pag 1
+
+https://www.figma.com/file/We8COx2D5taPqrVZxIjcoQ/App-do-Netsphere?type=design&node-id=35-17&mode=design
+
+//Link Pag 2
+
+https://www.figma.com/file/We8COx2D5taPqrVZxIjcoQ/App-do-Netsphere?type=design&node-id=35-51&mode=design
